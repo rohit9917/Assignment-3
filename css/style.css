@@ -832,8 +832,7 @@ ul {
 
 .description4 {
 	padding-top: 13%;
-	padding-left: 57%;
-	padding-right: 7%;
+	margin-left: 77%;
 	padding-bottom: 10%;
 }
 
@@ -842,4 +841,10 @@ ul {
 	font-size: xx-large;
 	font-weight: bold;
 	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.col1 img{
+	height: 100%;
+	max-width: 100%;
+	width: 100%;
 }
