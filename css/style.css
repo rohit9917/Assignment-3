@@ -345,7 +345,6 @@
 	padding: 15px;
 }
 
-
 .testimonial {
 	text-align: center;
 }
@@ -497,15 +496,12 @@
 }
 
 .banner2 h1 {
-	padding-top: 7%;
 	color: white;
 }
 
 .banner2 p {
-	padding-top: 62px;
 	height: auto;
 	color: white;
-	padding-bottom: 27vh;
 	font-size: larger;
 }
 
